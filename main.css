@@ -11,6 +11,8 @@ article, aside, details, figcaption, figure, footer, header, main, nav, section,
 
 img{
     padding-bottom: 10%;
+    margin: auto;
+    display: block;
 }
 
 h1{
